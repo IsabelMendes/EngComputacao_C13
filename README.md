@@ -1,1 +1,2 @@
-# EngComputacao_C13
+# EngComputacao_C013
+Exercícios e relatórios da matéria
